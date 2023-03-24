@@ -1,0 +1,14 @@
+For starters, you can just run the '/notebooks/10_making_prediction.ipynb' notebook to make predictions.
+
+If you want to test the model on a different dataset, just replace the file_path of `x_test`
+in the above notebook. (Make sure the new data has same structure as the old data)
+
+
+If you want more details, you can refer to individual data pipeline scripts in '/scripts/pipelines'
+folder. All the tasks performed in these scripts are explained in the respective notebooks in '/notebooks' folder.
+
+
+This project is also thoroughly documented and comments are added at necessary places.
+
+
+At last, the score achieved was 0.755. So the test score is expected to be around this number.
