@@ -11,9 +11,9 @@ root
     - /pipeline_data:                  data generated when passed through each data pipeline (in order)
     - /scripts/pipelines:              python scripts for data pipelines (in order)
     - /scripts/utils.py                utility functions
-    - /Test                            provided test data
+    - /Test/final_predictions.csv      final predictions file (predictions on test data)
+    - /Test/X_test.csv                 provided test data
     - /Training                        provided training data
-    - /final_submission.csv            final submission file (predictions on test data)
     - /notes.txt                       general notes about the project
     - /Problem Statement.docx          problem statement
     - /README.md                       readme file
